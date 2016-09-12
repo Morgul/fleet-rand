@@ -1,0 +1,15 @@
+{
+  "name": "fleet-rand",
+  "version": "1.0.0",
+  "description": "A simple script for randomizing fleets",
+  "main": "fleet-rand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher S. Case <chris.case@g33xnexus.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "lodash": "^4.15.0"
+  }
+}
